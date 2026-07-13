@@ -1,10 +1,10 @@
 :root {
-    --color-background: #eafbff;
-    --color-on-background: #2a1a4a;
-    --color-background-hover: #d3f2fb;
-    --color-on-background-hover: #2a1a4a;
-    --color-primary: #d6499a;
-    --color-on-primary: #fff0fa;
+    --color-background: #eaf9ff;
+    --color-on-background: #2b3a67;
+    --color-background-hover: #cdf0fb;
+    --color-on-background-hover: #2b3a67;
+    --color-primary: #ff4fc3;
+    --color-on-primary: #ffffff;
     --color-error: #de0000;
     --color-on-error: white;
 }
@@ -12,13 +12,13 @@
 main.dark,
 header.dark {
     color-scheme: dark;
-    --color-background: #1a1638;
-    --color-on-background: #eafbff;
-    --color-background-hover: #251f4a;
-    --color-on-background-hover: #eafbff;
-    --color-primary: #e05fb0;
-    --color-primary-disabled: #6b3560;
-    --color-on-primary: #1a1030;
+    --color-background: #241b45;
+    --color-on-background: #f2f9ff;
+    --color-background-hover: #33285e;
+    --color-on-background-hover: #f2f9ff;
+    --color-primary: #ff6bd6;
+    --color-primary-disabled: #7a4a80;
+    --color-on-primary: #2a1030;
     --color-error: #de0000;
     --color-on-error: white;
 }
