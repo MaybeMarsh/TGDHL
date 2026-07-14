@@ -1,8 +1,5 @@
 import { round, score } from './score.js';
 
-/**
- * Path to directory containing `_list.json` and all levels
- */
 const dir = '/data';
 
 export async function fetchList() {
@@ -74,9 +71,12 @@ export async function fetchLeaderboard() {
             link: level.verification,
         });
 
-        // Records
-        level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
+       level.records.forEach((record) => {
+    if (record.user.toLowerCase() === level.verifier.toLowerCase()) {
+        return;
+    }
+
+    const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
             scoreMap[user] ??= {
@@ -119,6 +119,5 @@ export async function fetchLeaderboard() {
         };
     });
 
-    // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
