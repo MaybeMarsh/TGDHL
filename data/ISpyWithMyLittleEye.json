@@ -1,0 +1,28 @@
+{
+    "id": 89886591,
+    "name": "ISpyWithMyLittleEye",
+    "author": "Voxicat",
+    "creators": ["Voxicat"],
+    "verifier": "SourCodes",
+    "verification": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SourCodes",
+            "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MaybeMarsh",
+            "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
+            "percent": 100,
+            "hz": 60
+        },
+        {"user": "Popsicleking06",
+            "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
+            "percent": 100,
+            "hz": 240
+    ]
+}
