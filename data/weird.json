@@ -4,19 +4,19 @@
     "author": "llertt",
     "creators": ["llertt"],
     "verifier": "MaybeMarshGD",
-    "verification": "https://www.youtube.com/watch?v=PF1n77uwi7g",
+    "verification": "https://www.youtube.com/watch?v=NwLfiG_rA9g",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
             "user": "MaybeMarshGD",
-            "link": "https://www.youtube.com/watch?v=PF1n77uwi7g",
+            "link": "https://www.youtube.com/watch?v=NwLfiG_rA9g",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "SourCodes",
-            "link": "https://www.youtube.com/watch?v=PF1n77uwi7g",
+            "link": "https://www.youtube.com/watch?v=NwLfiG_rA9g",
             "percent": 100,
             "hz": 240
         }
