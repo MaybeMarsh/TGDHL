@@ -1,0 +1,18 @@
+{
+    "id": 8660411,
+    "name": "Death Moon",
+    "author": "Caustic",
+    "creators": ["Caustic"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://www.youtube.com/watch?v=_i1X9uFYxVE",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=_i1X9uFYxVE",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
