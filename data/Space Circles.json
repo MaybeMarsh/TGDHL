@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=qHirHHJmZAE",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "SourCodes",
+            "link": "https://www.youtube.com/watch?v=qHirHHJmZAE",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
