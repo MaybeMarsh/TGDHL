@@ -1,0 +1,18 @@
+{
+    "id": 7054561,
+    "name": "Poltergeist",
+    "author": "Andromeda GMD",
+    "creators": ["Andromeda GMD"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://www.youtube.com/watch?v=Amyhrr_faUg",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=Amyhrr_faUg",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
