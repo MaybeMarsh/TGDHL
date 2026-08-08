@@ -1,0 +1,30 @@
+{
+    "id": 13519,
+    "name": "The Nightmare",
+    "author": "Jax",
+    "creators": ["Jax"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://www.youtube.com/watch?v=Xl4stg-bsxk",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=Xl4stg-bsxk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SourCodes",
+            "link": "https://www.youtube.com/watch?v=Xl4stg-bsxk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Popsicleking06",
+            "link": "https://www.youtube.com/watch?v=Xl4stg-bsxk",
+            "percent": 100,
+            "hz": 120
+        },
+    ]
+}
