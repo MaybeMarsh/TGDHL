@@ -1,0 +1,24 @@
+{
+    "id": 55520,
+    "name": "THE LIGHTNING ROAD",
+    "author": "timeless real",
+    "creators": ["timeless real"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://www.youtube.com/watch?v=6403P2-763E",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=6403P2-763E",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SourCodes",
+            "link": "https://www.youtube.com/watch?v=6403P2-763E",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
