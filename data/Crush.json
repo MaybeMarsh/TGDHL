@@ -1,7 +1,7 @@
 {
     "id": 80218929,
     "name": "CRUSH",
-    "author": "Subwoofer",
+    "author": "SourCS",
     "creators": ["Subwoofer"],
     "verifier": "SourCodes",
     "verification": "https://www.youtube.com/watch?v=7LCOW8glrlU",
@@ -9,7 +9,7 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "SourCodes",
+            "user": "SourCS",
             "link": "https://www.youtube.com/watch?v=7LCOW8glrlU",
             "percent": 100,
             "hz": 240
