@@ -3,13 +3,13 @@
     "name": "ISpyWithMyLittleEye",
     "author": "Voxicat",
     "creators": ["Voxicat"],
-    "verifier": "SourCodes",
+    "verifier": "SourCS",
     "verification": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "SourCodes",
+            "user": "SourCS",
             "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
             "percent": 100,
             "hz": 240
