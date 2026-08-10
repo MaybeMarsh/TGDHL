@@ -3,13 +3,13 @@
     "name": "Speed Racer",
     "author": "ZenthicAlpha",
     "creators": ["ZenthicAlpha"],
-    "verifier": "SourCodes",
+    "verifier": "SourCS",
     "verification": "https://www.youtube.com/watch?v=R8RsJVKKd8w",
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
         {
-            "user": "SourCodes",
+            "user": "SourCS",
             "link": "https://www.youtube.com/watch?v=R8RsJVKKd8w",
             "percent": 100,
             "hz": 240
