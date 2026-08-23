@@ -1,0 +1,30 @@
+{
+    "id": 88494611,
+    "name": "Eternal",
+    "author": "YunHaSeu14",
+    "creators": ["YunHaSeu14"],
+    "verifier": "SourCS",
+    "verification": "https://www.youtube.com/watch?v=Rqg12KDopUo",
+    "percentToQualify": 100,
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SourCS",
+            "link": "https://www.youtube.com/watch?v=Rqg12KDopUo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Popsicleking06",
+            "link": "https://www.youtube.com/watch?v=Rqg12KDopUo",
+            "percent": 100,
+            "hz": 120
+            
+        },
+        {"user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=Rqg12KDopUo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
