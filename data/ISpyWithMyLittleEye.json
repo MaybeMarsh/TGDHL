@@ -15,16 +15,16 @@
             "hz": 240
         },
         {
-            "user": "MaybeMarshGD",
-            "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
-            "percent": 100,
-            "hz": 60
-            
-        },
-        {"user": "Popsicleking06",
+            "user": "Popsicleking06",
             "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
             "percent": 100,
             "hz": 120
+            
+        },
+        {"user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=Ow7nDnZTbDw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
