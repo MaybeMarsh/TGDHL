@@ -18,6 +18,11 @@
             "link": "https://www.youtube.com/watch?v=EKP5rGdOf_o",
             "percent": 100,
             "hz": 120
+        },
+        {    "user": "SourCS",
+            "link": "https://www.youtube.com/watch?v=EKP5rGdOf_o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
