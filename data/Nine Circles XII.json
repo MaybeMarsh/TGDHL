@@ -1,0 +1,18 @@
+{
+    "id": 13703326,
+    "name": "Nine Circles XII",
+    "author": "Rustam",
+    "creators": ["Rustam"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://www.youtube.com/watch?v=MevL9VjHgBU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://www.youtube.com/watch?v=MevL9VjHgBU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
