@@ -1,0 +1,18 @@
+{
+    "id": 7016598,
+    "name": "Speed of Light II",
+    "author": "TheRealSalad",
+    "creators": ["Synactive GD"],
+    "verifier": "MaybeMarshGD",
+    "verification": "https://youtu.be/Hz_cpJKk7zU",
+    "percentToQualify": 100,
+    "password": "Free Copy",
+    "records": [
+        {
+            "user": "MaybeMarshGD",
+            "link": "https://youtu.be/Hz_cpJKk7zU",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
