@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=dOdPoU1ncOc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "SourCS",
+            "link": "https://www.youtube.com/watch?v=BptTHeHs7Bc&t=4s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
